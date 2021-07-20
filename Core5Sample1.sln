@@ -3,11 +3,16 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mcut.Domain", "Mcut.Domain\Mcut.Domain.csproj", "{6C9FD67E-7BE5-40D4-AA50-AFBCA9047C9A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mcut.Domain", "Mcut.Domain\Mcut.Domain.csproj", "{6C9FD67E-7BE5-40D4-AA50-AFBCA9047C9A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mcut.Application", "Mcut.Application\Mcut.Application.csproj", "{52E83A9D-BCED-411E-9C42-1EFE2FD7F5B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mcut.Application", "Mcut.Application\Mcut.Application.csproj", "{52E83A9D-BCED-411E-9C42-1EFE2FD7F5B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mcut.Infrastructure", "Mcut.Infrastructure\Mcut.Infrastructure.csproj", "{CB3F6BC9-21AF-4DE8-9378-F3CAD97AA213}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mcut.Infrastructure", "Mcut.Infrastructure\Mcut.Infrastructure.csproj", "{CB3F6BC9-21AF-4DE8-9378-F3CAD97AA213}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E212C09A-AF2C-4AD0-95EE-496E707D07C0}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
